@@ -1,1 +1,1 @@
-# Project_1
+# Web application just like Instagram
